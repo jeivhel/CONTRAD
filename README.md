@@ -8,10 +8,6 @@ A person can be infected with a dengue virus as many as four times in his or her
 
 The final dengue fever numbers for 2021 have been released by the Philippines Department of Health and the number of total cases were 12 percent lower than what was reported in 2020. From Jan. 1 to Dec. 31, 2021, there were a total of 79,872 dengue cases with 285 deaths (CFR 0.4%) reported. This compares to the 90,135 cases and 324 deaths reported in the same period in 2020.
 
-References: 
-https://www.cdc.gov/dengue/index.html 
-https://manilanews.ph/philippines-dengue-fever-2021-nearly-80k-cases-lower-than-2020/
-
 # STATEMENT OF THE PROBLEM
 Dengue fever is one of the Philippines' most serious health problems. Dengue fever incidences have been on the rise in the Philippines in recent years. Dengue fever is a mosquito-borne disease that spreads to other mosquito species after the dengue virus has been infected. There is no available  vaccine for patients suffering from dengue fever in this country. As a result, avoiding the disease's potential causes is the best method to prevent it from spreading further. Dengue fever can only be solved or controlled by reducing the Aedes population. To reduce the presence of Aedes, it is critical to be aware of their habitats ahead of time.
 
@@ -39,3 +35,15 @@ Effective vector control measures are critical to achieving and sustaining reduc
 The mosquito Aedes aegypti is the primary vector of dengue. It has evolved to mate, feed, rest and lay eggs in and around urban human habitation. Aedes aegypti is a daytime feeder; its peak biting periods are early in the morning and before dusk in the evening. Female Aedes aegypti frequently bites multiple people during each feeding period. 
 
 The availability of a safe, efficacious and cost-effective vaccine would significantly alter the concept for dengue prevention. As the global spread of dengue persists, vaccine development has received increasing interest and support by researchers, vaccine manufacturers, policy-makers and funding agencies. But as has been repeatedly demonstrated, even a perfect vaccine is only as good as our ability to deliver it. Planning for the most effective implementation of vaccine delivery is a technical element that should begin to be addressed now.
+
+# DATASETS
+[Dengue Cases in the Philippines](https://www.kaggle.com/datasets/grosvenpaul/dengue-cases-in-the-philippines)
+
+# REFERENCES
+[Dengue](https://www.cdc.gov/dengue/index.html)
+
+[Philippines dengue fever 2021: Nearly 80K cases, Lower than 2020](https://manilanews.ph/philippines-dengue-fever-2021-nearly-80k-cases-lower-than-2020/)
+
+[Number of dengue cases in the Philippines from 2009 to 2019](https://www.statista.com/statistics/1120319/philippines-number-dengue-cases/)
+
+[Trends in dengue research in the Philippines: A systematic review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6483330/)
