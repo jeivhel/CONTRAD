@@ -1,14 +1,16 @@
 # CONTRAD: The Evaluation of Dengue Cases in the Philippines from 2008 to 2016
 # INTRODUCTION
-Dengue viruses are spread to people through the bite of an infected Aedes species mosquito. Almost half of the world’s population, about 4 billion people, live in areas with a risk of dengue. Dengue is often a leading cause of illness in areas with risk. Dengue outbreaks are occurring in many countries of the world. Protect yourself from mosquito bites. Almost half of the world’s population, about 4 billion people, live in areas with a risk of dengue. Dengue is often a leading cause of illness in areas with risk.
+Dengue viruses are spread to people through the bite of an infected species of mosquito which is called the Aedes. Almost half of the world’s population, including the Philippines, live in areas with a risk of dengue. Dengue is often a leading cause of illness in areas with risk, such as in stocked water that is unused, rain water that had not been discarded immediately. Dengue outbreaks are occurring in many places in the Philippines especially in rural areas. how can you prevent the occurrence of dengue in your place? Here are some tips. Protect yourself from mosquito bites. Discard waters that has mosquito eggs in it. Buy devices or products that can kill or reduce mosquitos (e.g. mosquito coil, mosquito killer lamp, electric mosquito racket, insect or mosquito repellent, etc.)
 
-Each year, up to 400 million people get infected with dengue. Approximately 100 million people get sick from infection, and 40,000 die from severe dengue.
-
-Dengue is caused by one of any of four related viruses: Dengue virus 1, 2, 3, and 4.  For this reason, a person can be infected with a dengue virus as many as four times in his or her lifetime. A new dengue vaccine is approved for use in children aged 9 to 16 years with laboratory-confirmed previous dengue virus infection and living in areas where dengue is endemic (common). 
+A person can be infected with a dengue virus as many as four times in his or her lifetime. There are a few research stated that there is a new dengue vaccine that is approved for use in children aged 9 to 16 years with laboratory-confirmed previous dengue virus infection and living in areas where dengue is endemic.
 
 The final dengue fever numbers for 2021 have been released by the Philippines Department of Health and the number of total cases were 12 percent lower than what was reported in 2020.
 
 From Jan. 1 to Dec. 31, 2021, there were a total of 79,872 dengue cases with 285 deaths (CFR 0.4%) reported. This compares to the 90,135 cases and 324 deaths reported in the same period in 2020.
+
+References: 
+https://www.cdc.gov/dengue/index.html
+https://manilanews.ph/philippines-dengue-fever-2021-nearly-80k-cases-lower-than-2020/
 
 # STATEMENT OF THE PROBLEM
 Dengue fever is a major public health concern in the Philippines. The number of dengue cases in the Philippines has been steadily increasing over the years. Dengue fever is a tropical mosquito-borne disease caused by the dengue virus, which is spread by several Aedes mosquito species. 
