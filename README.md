@@ -39,6 +39,3 @@ Effective vector control measures are critical to achieving and sustaining reduc
 The mosquito Aedes aegypti is the primary vector of dengue. It has evolved to mate, feed, rest and lay eggs in and around urban human habitation. Aedes aegypti is a daytime feeder; its peak biting periods are early in the morning and before dusk in the evening. Female Aedes aegypti frequently bites multiple people during each feeding period. 
 
 The availability of a safe, efficacious and cost-effective vaccine would significantly alter the concept for dengue prevention. As the global spread of dengue persists, vaccine development has received increasing interest and support by researchers, vaccine manufacturers, policy-makers and funding agencies. But as has been repeatedly demonstrated, even a perfect vaccine is only as good as our ability to deliver it. Planning for the most effective implementation of vaccine delivery is a technical element that should begin to be addressed now.
-
-# DATASET
-[denguecases.csv](https://github.com/jeivhel/CONTRAD/files/8464005/denguecases.csv)
