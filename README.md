@@ -4,12 +4,10 @@ Dengue viruses are spread to people through the bite of an infected species of m
 
 A person can be infected with a dengue virus as many as four times in his or her lifetime. There are a few research stated that there is a new dengue vaccine that is approved for use in children aged 9 to 16 years with laboratory-confirmed previous dengue virus infection and living in areas where dengue is endemic.
 
-The final dengue fever numbers for 2021 have been released by the Philippines Department of Health and the number of total cases were 12 percent lower than what was reported in 2020.
-
-From Jan. 1 to Dec. 31, 2021, there were a total of 79,872 dengue cases with 285 deaths (CFR 0.4%) reported. This compares to the 90,135 cases and 324 deaths reported in the same period in 2020.
+The final dengue fever numbers for 2021 have been released by the Philippines Department of Health and the number of total cases were 12 percent lower than what was reported in 2020. From Jan. 1 to Dec. 31, 2021, there were a total of 79,872 dengue cases with 285 deaths (CFR 0.4%) reported. This compares to the 90,135 cases and 324 deaths reported in the same period in 2020.
 
 References: 
-https://www.cdc.gov/dengue/index.html
+https://www.cdc.gov/dengue/index.html 
 https://manilanews.ph/philippines-dengue-fever-2021-nearly-80k-cases-lower-than-2020/
 
 # STATEMENT OF THE PROBLEM
