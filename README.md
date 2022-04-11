@@ -44,6 +44,8 @@ The availability of a safe, efficacious and cost-effective vaccine would signifi
 
 [Philippines dengue fever 2021: Nearly 80K cases, Lower than 2020](https://manilanews.ph/philippines-dengue-fever-2021-nearly-80k-cases-lower-than-2020/)
 
+[Problem Statement for Dengue Fever](https://www.bartleby.com/essay/Problem-Statement-For-Dengue-Fever-PJ4282WPCU)
+
 [Number of dengue cases in the Philippines from 2009 to 2019](https://www.statista.com/statistics/1120319/philippines-number-dengue-cases/)
 
 [Trends in dengue research in the Philippines: A systematic review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6483330/)
