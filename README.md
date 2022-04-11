@@ -13,8 +13,7 @@ https://www.cdc.gov/dengue/index.html
 https://manilanews.ph/philippines-dengue-fever-2021-nearly-80k-cases-lower-than-2020/
 
 # STATEMENT OF THE PROBLEM
-Dengue fever is a major public health concern in the Philippines. The number of dengue cases in the Philippines has been steadily increasing over the years. Dengue fever is a tropical mosquito-borne disease caused by the dengue virus, which is spread by several Aedes mosquito species. 
-There are no specific medications for treating dengue, and there is no commercially available dengue vaccine. As a result, the most important step in reducing the risk of dengue infection is prevention. The only method for controlling and preventing dengue fever is to reduce the Aedes population. It is critical to detect Aedes populations and habitats early in order to reduce the dengue reservoir.
+Dengue fever is one of the Philippines' most serious health problems. Dengue fever incidences have been on the rise in the Philippines in recent years. Dengue fever is a mosquito-borne disease that spreads to other mosquito species after the dengue virus has been infected. There is no available  vaccine for patients suffering from dengue fever in this country. As a result, avoiding the disease's potential causes is the best method to prevent it from spreading further. Dengue fever can only be solved or controlled by reducing the Aedes population. To reduce the presence of Aedes, it is critical to be aware of their habitats ahead of time.
 
 # SIGNIFICANCE OF THE PROJECT
 This project is significant to the following:
