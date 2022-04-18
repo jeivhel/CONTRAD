@@ -39,6 +39,8 @@ The availability of a safe, efficacious and cost-effective vaccine would signifi
 # DATASETS
 [Dengue Cases in the Philippines](https://www.kaggle.com/datasets/grosvenpaul/dengue-cases-in-the-philippines)
 
+[Dengue Outbreak Statistics](https://data.gov.sg/dataset/vector-control-data-dengue-outbreak-statistics?resource_id=0e185366-f2a0-489f-bce8-17b4a24ea339)
+
 # REFERENCES
 [Dengue](https://www.cdc.gov/dengue/index.html)
 
