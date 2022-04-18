@@ -1,6 +1,6 @@
 # CONTRAD: The Evaluation of Dengue Cases in the Philippines from 2008 to 2016
 # INTRODUCTION
-Dengue viruses are spread to people through the bite of an infected species of mosquito which is called the Aedes. Almost half of the world’s population, including the Philippines, live in areas with a risk of dengue. Dengue is often a leading cause of illness in areas with risk, such as in stocked water that is unused, rain water that had not been discarded immediately. Dengue outbreaks are occurring in many places in the Philippines especially in rural areas. 
+Dengue viruses are spread to people through the bite of an infected species of mosquito which is called the Aedes. Almost half of the world’s population, including the Philippines, live in areas with a risk of dengue. Dengue is often a leading cause of illness in areas with risk, such as in stocked water that is unused, rain water that had not been discarded immediately. Dengue outbreaks are occurring in many places in the Philippines especially in rural areas. Some says that prevention is better than cure, immediate action is required for better solutions.
 
 How can you prevent the occurrence of dengue in your place? Here are some tips. Protect yourself from mosquito bites. Discard waters that has mosquito eggs in it. Buy devices or products that can kill or reduce mosquitos (e.g. mosquito coil, mosquito killer lamp, electric mosquito racket, insect or mosquito repellent, etc.)
 
@@ -49,3 +49,15 @@ The availability of a safe, efficacious and cost-effective vaccine would signifi
 [Number of dengue cases in the Philippines from 2009 to 2019](https://www.statista.com/statistics/1120319/philippines-number-dengue-cases/)
 
 [Trends in dengue research in the Philippines: A systematic review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6483330/)
+
+[LGUs urged to spread dengue prevention information](https://www.pna.gov.ph/articles/1070623)
+
+[DepEd Chief to schools: intensify dengue prevention campaign](https://www.officialgazette.gov.ph/2010/09/07/deped-chief-to-schools-intensify-dengue-prevention-campaign/)
+
+[Iloilo city students learn dengue prevention](https://www.pna.gov.ph/articles/1072354)
+
+[DepEd-7: Parents should be included in dengue prevention drive](https://cebudailynews.inquirer.net/251828/deped-7-parents-should-be-included-in-dengue-prevention-drive)
+
+[Acceptability of the dengue vaccination](https://pubmed.ncbi.nlm.nih.gov/30201034/)
+
+[Prevent Dengue in Philippines](http://www.clarkphilippines.com/prevent-dengue-in-philippines-repel-mosquitoes-how-to-avoid-mosquito-bites/)
