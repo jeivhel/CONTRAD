@@ -1,5 +1,6 @@
 # CONTRAD: The Evaluation of Dengue Cases in the Philippines from 2008 to 2016
 # INTRODUCTION
+
 <div style="text-align: justify">
 Dengue viruses are spread to people through the bite of an infected species of mosquito which is called the Aedes. Almost half of the world’s population, including the Philippines, live in areas with a risk of dengue. Dengue is often a leading cause of illness in areas with risk, such as in stocked water that is unused, rain water that had not been discarded immediately. Dengue outbreaks are occurring in many places in the Philippines especially in rural areas. Some says that prevention is better than cure, immediate action is required for better solutions.
 
@@ -9,6 +10,7 @@ Dengue fever is a widespread tropical infection. In severe situations, this acut
 
 The final dengue fever numbers for 2021 have been released by the Philippines Department of Health and the number of total cases were 12 percent lower than what was reported in 2020. From Jan. 1 to Dec. 31, 2021, there were a total of 79,872 dengue cases with 285 deaths (CFR 0.4%) reported. This compares to the 90,135 cases and 324 deaths reported in the same period in 2020.
 </div>
+
 # STATEMENT OF THE PROBLEM
 Dengue fever is one of the Philippines' most serious health issues. Dengue fever is said to have become more common in the Philippines in recent years. Dengue fever is contracted when a person is bitten by a mosquito. Dengue fever is a mosquito-borne disease that spreads to other mosquito species after they become infected with the dengue virus. There is currently no vaccine available in the Philippines for dengue fever patients. As a result, avoiding the disease's potential causes is the best way to prevent its spread. The only visible method of preventing dengue fever is to reduce the Aedes population.  It is critical to understand Aedes' environment in order to limit their presence.
 
